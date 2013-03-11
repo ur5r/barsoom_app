@@ -1,0 +1,18 @@
+%%-*- mode: erlang -*-
+{application, barsoom_app,
+ [
+  {description, "barsoom_app"},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  inets,
+                  crypto,
+                  mochiweb,
+                  webmachine
+                 ]},
+  {mod, { barsoom_app_app, []}},
+  {env, []}
+ ]}.
