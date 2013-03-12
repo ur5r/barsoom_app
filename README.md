@@ -16,12 +16,11 @@ What you need:
 
 How To Use:
 -----------
-
-1.Do not modify anything
-2.make
+1. Do not modify anything
+2. make
 3. ./start.sh
 4. barsoom_app:start().
-5.Go on to the browser  http://127.0.0.1:8765/ should load the hello world page.
+5. Go on to the browser  http://127.0.0.1:8765/ should load the hello world page.
 
 
 Good Luck!
