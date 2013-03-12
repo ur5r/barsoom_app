@@ -23,4 +23,8 @@ How To Use:
 5. Go on to the browser  http://127.0.0.1:8765/ should load the hello world page.
 
 
+Note:
+----
+1. The application comes with a working copy of mochiweb, made compatible with R16A using __pmod_pt.erl__ for _parameterized module_ support
+
 Good Luck!
