@@ -28,3 +28,5 @@ Note:
 1. The application comes with a working copy of mochiweb, made compatible with R16A using __pmod_pt.erl__ for _parameterized module_ support
 
 Good Luck!
+
+P.S. -- Need to test this with R16B
